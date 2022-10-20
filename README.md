@@ -1,6 +1,6 @@
 # SfDigitalGauge Getting Started Xamarin.iOS
 
-This repository contains sample for how to get started with [Syncfusion Xamarin.iOS Digital Gauge](https://help.syncfusion.com/xamarin-ios/sfdigitalgauge/getting-started) control. The Digital Gauge control is used to display alphanumeric characters in digital (LED Display) mode. It is used to display a range of values that uses characters in combination with numbers.
+This repository contains sample to get started with [Syncfusion Xamarin.iOS Digital Gauge](https://help.syncfusion.com/xamarin-ios/sfdigitalgauge/getting-started) control. The Digital Gauge control is used to display alphanumeric characters in digital (LED Display) mode. It is used to display a range of values that uses characters in combination with numbers.
 
 ## Syncfusion controls
 
